@@ -1,0 +1,14 @@
+nav{
+    width: 90vw;
+    display: flex;
+    background: blueviolet;
+    justify-content: space-around;
+    margin: auto;
+}
+
+.active{
+    color: red;
+}
+.inactive{
+    color: white;
+}
